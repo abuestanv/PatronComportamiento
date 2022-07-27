@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<XyzData>
+	<Documento>
+		<Codigo>10024</Codigo>
+		<Cliente>Cliente 10024</Cliente>
+		<Fecha>2022-07-23</Fecha>
+		<Producto>ITM_1</Producto>
+		<Cantidad>5</Cantidad>
+		<Precio>50</Precio>
+		<Total>250</Total>
+		<Observacion>Observacion del documento 1</Observacion>
+	</Documento>
+	<Documento>
+		<Codigo>10024</Codigo>
+		<Cliente>Cliente 10024</Cliente>
+		<Fecha>2022-07-23</Fecha>
+		<Producto>ITM_1</Producto>
+		<Cantidad>1</Cantidad>
+		<Precio>50</Precio>
+		<Total>50</Total>
+		<Observacion>Observacion del documento 1</Observacion>
+	</Documento>
+	<Documento>
+		<Codigo>10024</Codigo>
+		<Cliente>Cliente 10024</Cliente>
+		<Fecha>2022-07-23</Fecha>
+		<Producto>ITM_1</Producto>
+		<Cantidad>4</Cantidad>
+		<Precio>50</Precio>
+		<Total>200</Total>
+		<Observacion>Observacion del documento 1</Observacion>
+	</Documento>
+	<Documento>
+		<Codigo>10024</Codigo>
+		<Cliente>Cliente 10024</Cliente>
+		<Fecha>2022-07-23</Fecha>
+		<Producto>ITM_1</Producto>
+		<Cantidad>10</Cantidad>
+		<Precio>50</Precio>
+		<Total>500</Total>
+		<Observacion>Observacion del documento 1</Observacion>
+	</Documento>
+</XyzData>
